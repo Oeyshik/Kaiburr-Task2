@@ -52,14 +52,6 @@ This task is about the implementation a REST API using Swagger Codegen. It invol
 - Implemented functionality for each endpoint based on the Swagger definition.
 - Created business logic to handle incoming HTTP requests and responses.
 
-4. Application Deployment:
+#### Note: Had come difficulties in completing the functionality implementation. Working on it...
 
-- Built the Java application using the IDE or build tool Maven.
-- Deployed and ran the application, either on a server or locally, ensuring it was accessible via HTTP.
-
-5. Testing with Postman/Curl:
-
-- Validated the implementation using Postman, Curl, or another HTTP client.
-- Sent requests to the defined endpoints and verified that the responses met expectations.
-
-With these steps, the task of creating a REST API using Swagger Codegen was successfully completed.
+With these steps, the task of creating a REST API using Swagger Codegen is covered.
