@@ -1,7 +1,6 @@
 # Kaiburr Task 2: Swagger Codegen REST API Implementation
 
-## Description
-In Task 2, we will implement a REST API using Swagger Codegen. This task involves creating a RESTful API based on a Swagger/OpenAPI definition and generating server code from that definition. The API will be implemented in Java using a chosen server or server framework. This README provides a guide on how to complete Task 2 step by step.
+This task is about the implementation a REST API using Swagger Codegen. It involves creating a RESTful API based on a Swagger/OpenAPI definition and generating server code from that definition. The API will be implemented in Java using a chosen server or server framework. This README provides a guide on how to complete Task 2 step by step.
 
 ## Table of Contents
 - [Features](#features)
@@ -17,15 +16,15 @@ In Task 2, we will implement a REST API using Swagger Codegen. This task involve
 ## Technologies Used
 - Swagger/OpenAPI
 - Java
-- Spring Boot (or your chosen Java-based server)
-- MongoDB (or your chosen database, if applicable)
+- Spring Boot
+- MongoDB
 
 ## Requirements
 - Access to Swagger Editor: https://editor.swagger.io/
 - Java development environment (JDK, IDE)
 - Maven or Gradle build tool (if using Spring Boot)
-- MongoDB (if using MongoDB as the database)
-- Postman or Curl for API testing
+- MongoDB
+- Postman
 
 ## How the Task is Done
 
@@ -33,6 +32,12 @@ In Task 2, we will implement a REST API using Swagger Codegen. This task involve
 
 - Created a Swagger/OpenAPI definition for the REST API at https://editor.swagger.io/.
 - Defined API endpoints, request/response parameters, and saved the Swagger definition in YAML format.
+
+### Screenshots
+![App Screenshot](https://drive.google.com/uc?id=1ICGEwY6b3Cp8da3DYcEvgf0Mwab3B6I1)
+
+![App Screenshot](https://drive.google.com/uc?id=1lVqavvl4s1kabvO321i_FdYX1Vetmsnk)
+
 
 2. Server Code Generation:
 
