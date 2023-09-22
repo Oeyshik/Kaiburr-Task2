@@ -34,10 +34,9 @@ This task is about the implementation a REST API using Swagger Codegen. It invol
 - Defined API endpoints, request/response parameters, and saved the Swagger definition in YAML format.
 
 ### Screenshots
-![App Screenshot](https://drive.google.com/uc?id=1ICGEwY6b3Cp8da3DYcEvgf0Mwab3B6I1)
+![Screenshot](https://drive.google.com/uc?id=1ICGEwY6b3Cp8da3DYcEvgf0Mwab3B6I1)
 
-![App Screenshot](https://drive.google.com/uc?id=1lVqavvl4s1kabvO321i_FdYX1Vetmsnk)
-
+![Screenshot](https://drive.google.com/uc?id=1lVqavvl4s1kabvO321i_FdYX1Vetmsnk)
 
 2. Server Code Generation:
 
